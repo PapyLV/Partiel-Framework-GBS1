@@ -35,18 +35,18 @@ html,body {
     justify-content: space-evenly;
 }
 
-.text2 {
+.conteneur {
     column-count: 3;
     text-align: left;
-    font-weight: bold;
-    font-size: 25px;
     margin-left: 480px;
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-right: 480px;
 }
 
-.para1 {
-    text-align: center;
+.title {
+    font-weight: bold;
+    font-size: 25px;
 }
 
 .citation {
